@@ -7,5 +7,5 @@ Este es mi primer proyecton en GitHub, con el que he aprendido a escribir en len
 4. *commit* es el comando para registrar los cambios en el repositorio local
 
 También hay un comando para cambiar la información como, por ejemplo:
-'git config --global user.email <email>'
+,git config --global user.email <email>,
   
