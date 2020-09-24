@@ -1,2 +1,3 @@
 # Prácticas de Ingenería del Software
-Mi primer proyecto en GitHub
+Este es mi primer proyecton en GitHub, con el que he aprendido a escribir en lenguaje Markdown
+## Comandos útiles de Git
