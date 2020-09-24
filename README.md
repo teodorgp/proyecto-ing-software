@@ -11,3 +11,6 @@ También hay un comando para cambiar la información como, por ejemplo:
 'git config --global user.email <email>'
 ## Herramientas para las prácticas
   * [GitHub](https://github.com/)
+  * [YouTrack](https://www.jetbrains.com/youtrack/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadjvNHsP82kxpjOMZSEX2sAKkMQyvGAOwYvqVBw476bvldAg8uCL2_xoCozgQAvD_BwE)
+  * [VisualParadigm](https://www.visual-paradigm.com/)
+  * [Eclipse](https://www.eclipse.org/downloads/)
